@@ -1,0 +1,6 @@
+{
+  "name": "Actividad: Estrés Laboral y Burnout",
+  "description": "Actividad interactiva y anónima de 5 preguntas de opción múltiple sobre estrés laboral y burnout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
