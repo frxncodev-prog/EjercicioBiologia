@@ -1,0 +1,4 @@
+[build]
+  base = "actividad_-estrés-laboral-y-burnout"
+  command = "npm install && npm run build"
+  publish = "dist"
